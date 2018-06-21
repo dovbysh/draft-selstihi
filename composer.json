@@ -1,0 +1,14 @@
+{
+    "name": "dovbysh/sel-stihi",
+    "type": "project",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Andrey Dovbyshko",
+            "email": "dovbysh@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/webdriver": "^1.6"
+    }
+}
